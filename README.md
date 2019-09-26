@@ -10,12 +10,16 @@ Install it via npm:
 ```
 npm i -S react-native-loader
 ```
+or
+```
+yarn add react-native-loader
+```
 
 ### Android
 For Android, it works out of the box.
 
 ### iOS
-For iOS, add `ART.xcodeproj` from `node_modules/react-native/Libraries/ART` to your Libraries then link `libART.a`.
+Install ``@react-native-community/art`` from [@react-native-community/art](https://github.com/react-native-community/art)
 
 ## How to use
 ```jsx
