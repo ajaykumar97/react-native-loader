@@ -8,11 +8,11 @@ A collection of animated spinners for react native using ReactART.
 Install it via npm:
 
 ```
-npm i -S react-native-loader
+npm i -S github:ajaykumar97/react-native-loader#master
 ```
 or
 ```
-yarn add react-native-loader
+yarn add github:ajaykumar97/react-native-loader#master
 ```
 
 ### Android
